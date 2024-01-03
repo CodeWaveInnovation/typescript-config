@@ -1,0 +1,17 @@
+{
+  "name": "@cwinnovation/typescript-config",
+  "version": "1.0.0",
+  "description": "Collection of internal typescript configurations for projects.",
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "publish": "npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "avilesxd <nacho72001@gmail.com>",
+  "license": "MIT"
+}
